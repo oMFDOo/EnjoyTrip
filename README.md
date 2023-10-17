@@ -38,7 +38,10 @@
 > 로그인한 사용자에 한하여 게시글 작성 가능
 
 -   게시판 메인
-    <img src="./src/board_main.png" style="width:80%"> | <img src="./src/board_sizing.png" style="width:80%">
+
+<div style="text-align:center">
+    <img src="./src/board_main.png" style="width:400px">
+</div>
 
 <br><br>
 
@@ -69,11 +72,33 @@
 #### \- 게시판 : 글작성 및 수정
 
 -   summernote를 활용한 자유로운 형식의 글작성 지원
+
+|                       글작성                        |                    작성 글 확인                    |
+| :-------------------------------------------------: | :------------------------------------------------: |
+| <img src="./src/board_write.png" style="width:80%"> | <img src="./src/board_read.png" style="width:80%"> |
+
+<br><br>
+
 -   자신이 작성한 글에 한하여 수정/삭제 지원
+
+<div style="text-align:center">
+    <img src="./src/board_delete.gif" style="width:600px">
+</div>
+
+|                    내가 쓴 글                    |                     타인의 글                      |
+| :----------------------------------------------: | :------------------------------------------------: |
+| <img src="./src/board_my.png" style="width:80%"> | <img src="./src/board_your.png" style="width:80%"> |
+
+<br><br>
 
 #### \- 마이페이지
 
 > 회원정보 수정 및 작성 글 확인 가능
+
+<div style="text-align:center">
+    <img src="./src/mypage.gif" style="width:600px">
+</div>
+ : 회원정보 수정/탈퇴, 건의사항, 내가 쓴 글목록 확인 가능
 
 <br><br>
 
