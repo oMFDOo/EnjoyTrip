@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/header.jsp=UTF-8
+encoding//src/board/controller/BoardServlet.java=UTF-8
+encoding//src/board/dto/BoardDto.java=UTF-8
+encoding//src/board/service/BoardServiceImpl.java=UTF-8
+encoding//src/loginout/service/loginoutServiceImpl.java=UTF-8
+encoding//src/updateinfo/dao/UpdateInfoDaoImpl.java=UTF-8
+encoding//src/user/controller/UserController.java=UTF-8
