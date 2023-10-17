@@ -3,6 +3,7 @@
 > HTML, CSS, JSP, Servlet, MySQL을 활용한 웹프로젝트
 
 <div style="text-align:center">
+    <img src="./src/main.png" style="width:80%">
 </div>
 
 <br><br>
@@ -28,14 +29,42 @@
 
 > html, css 환경 적응을 위한 꾸밈 페이지 작성
 
+|                   회사정보                    |                  추천 여행지                  |
+| :-------------------------------------------: | :-------------------------------------------: |
+| <img src="./src/deco1.png" style="width:80%"> | <img src="./src/deco2.png" style="width:80%"> |
+
 #### \- 게시판
 
 > 로그인한 사용자에 한하여 게시글 작성 가능
 
 -   게시판 메인
+    <img src="./src/board_main.png" style="width:80%"> | <img src="./src/board_sizing.png" style="width:80%">
+
+<br><br>
+
 -   다양한 크기의 디스플레이 지원
+
+    |                    게시글과 마이페이지                    |                   세부 게시글 내용                   |
+    | :-------------------------------------------------------: | :--------------------------------------------------: |
+    | <img src="./src/board_page_sizing.gif" style="width:80%"> | <img src="./src/board_sizing.png" style="width:80%"> |
+
+<br><br>
+
 -   주간 인기 게시글
+
+|                     주간 인기 게시글                     |                    1주일 내의 글만 표기                    |
+| :------------------------------------------------------: | :--------------------------------------------------------: |
+| <img src="./src/board_best_board.png" style="width:80%"> | <img src="./src/board_db_viewcount.png" style="width:80%"> |
+
+<br><br>
+
 -   로그인 여부에 따른 화면 구성차이
+
+|                     환영 페이지                     |
+| :-------------------------------------------------: |
+| <img src="./src/board_login.gif" style="width:80%"> |
+
+<br><br>
 
 #### \- 게시판 : 글작성 및 수정
 
