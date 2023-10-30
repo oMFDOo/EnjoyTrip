@@ -37,12 +37,6 @@
 
 > 로그인한 사용자에 한하여 게시글 작성 가능
 
--   게시판 메인
-
-<div style="text-align:center">
-    <img src="./src/board_main.png" style="width:400px">
-</div>
-
 <br><br>
 
 -   다양한 크기의 디스플레이 지원
