@@ -19,6 +19,11 @@
 | Frontend | html/CSS/js, jsp, bootstrap4 |
 |    DB    |        mySql(8.0.34)         |
 
+
+<div style="text-align:center">
+    <img src="./src/db.png" style="width:300px">
+</div>
+
 <br><br>
 
 <hr>
